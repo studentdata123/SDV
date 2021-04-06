@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>SDV</title>
+    <link rel="stylesheet" href="public/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="public/admin/css/login.css">
+</head>
+    <div class="wrapper fadeInDown">
+  <div id="formContent">
+    <!-- Tabs Titles -->
+    <!-- Icon -->
+    <div class="fadeIn first">
+      <img src="public/images/logold.png" id="icon" style="width: 72% ; padding-top:50px ;" alt="User Icon" />
+      <!-- <h1>ODISHA</h1> -->
+    </div>
+</br>
+    <div style="height:20px;margin-bottom:5px; color: red;" class="red_bold_text">
+      <?php if(@$error_msg != "") { ?>
+        <?php echo $error_msg; ?>
+      <?php } ?>
+    </div>
+    <div style="height:20px;margin-bottom:5px; color: green;" class="green_bold_text">
+      <?php if(@$succ_msg != "") { ?>
+        <?php echo $succ_msg; ?>
+      <?php } ?>
+    </div>
+
+    <!-- Login Form -->
+
+    <form role="form" id="frmlogin" name="frmlogin" method="post">
+
+      <input type="text" id="loginid" class="fadeIn second" name="email" placeholder="Email Id">
+
+      <input type="password" id="txtpwd" class="fadeIn third" name="password" placeholder="Password">
+
+      <div class="form-group has-feedback">
+
+      <input type="captcha" class="fadeIn third" placeholder="Enter Captcha code" name="captcha" id="captcha">
+
+      <img src="captcha.php" height="33px" width="70px"/></div>
+
+
+
+      <input type="submit" class="fadeIn fourth" name="btn_login" id="btnlogin" onClick="return loginval()" value="Log In">
+
+
+
+      <div id="formFooter">
+
+        <input type="checkbox" class="agree-term" name="remember_me" id="remember_me"  />
+
+        <label for="remember-me" class="label-agree-term">Remember me</label> &nbsp;&nbsp;
+
+        <label > <a class="underlineHover" href="forgot-password">Forgot Password </a></label>
+
+     </div>
+
+    </form>
+
+
+
+    <!-- Remind Passowrd -->
+
+    <!-- <div id="formFooter">
+
+      <a class="underlineHover" href="#">Go to the Site</a>
+
+    </div> -->
+
+
+
+  </div>
+
+</div>
+
+  <!-- jQuery -->
+
+<script src="public/jquery/jquery.min.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+
+<script src="public/bootstrap/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
+
