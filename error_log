@@ -1,0 +1,117 @@
+[14-Nov-2020 21:38:11 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[14-Nov-2020 21:38:11 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[14-Nov-2020 21:38:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php:33
+Stack trace:
+#0 {main}
+  thrown in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php on line 33
+[18-Nov-2020 23:13:58 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[18-Nov-2020 23:13:58 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[18-Nov-2020 23:13:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php:33
+Stack trace:
+#0 {main}
+  thrown in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php on line 33
+[18-Nov-2020 23:14:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[18-Nov-2020 23:14:03 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[18-Nov-2020 23:14:03 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php:33
+Stack trace:
+#0 {main}
+  thrown in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php on line 33
+[19-Nov-2020 10:44:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[19-Nov-2020 10:44:37 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[19-Nov-2020 10:44:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php:33
+Stack trace:
+#0 {main}
+  thrown in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php on line 33
+[19-Nov-2020 11:03:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[19-Nov-2020 11:03:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[19-Nov-2020 11:03:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php:33
+Stack trace:
+#0 {main}
+  thrown in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php on line 33
+[19-Nov-2020 11:03:49 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[19-Nov-2020 11:03:49 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[19-Nov-2020 11:03:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php:33
+Stack trace:
+#0 {main}
+  thrown in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php on line 33
+[19-Nov-2020 11:08:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[19-Nov-2020 11:08:28 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[19-Nov-2020 11:08:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php:33
+Stack trace:
+#0 {main}
+  thrown in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php on line 33
+[19-Nov-2020 11:08:40 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[19-Nov-2020 11:08:40 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[19-Nov-2020 11:08:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php:33
+Stack trace:
+#0 {main}
+  thrown in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php on line 33
+[19-Nov-2020 11:08:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[19-Nov-2020 11:08:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[19-Nov-2020 11:08:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php:33
+Stack trace:
+#0 {main}
+  thrown in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php on line 33
+[19-Nov-2020 11:11:49 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[19-Nov-2020 11:11:49 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[19-Nov-2020 11:11:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php:33
+Stack trace:
+#0 {main}
+  thrown in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php on line 33
+[19-Nov-2020 11:38:07 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[19-Nov-2020 11:38:07 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[19-Nov-2020 11:38:07 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php:33
+Stack trace:
+#0 {main}
+  thrown in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php on line 33
+[23-Dec-2020 12:17:47 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home5/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 1770
+[23-Dec-2020 12:17:47 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home5/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 9143
+[23-Dec-2020 16:34:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[23-Dec-2020 16:34:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[23-Dec-2020 16:34:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php:33
+Stack trace:
+#0 {main}
+  thrown in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php on line 33
+[23-Dec-2020 16:34:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[23-Dec-2020 16:34:18 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[23-Dec-2020 16:34:18 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php:33
+Stack trace:
+#0 {main}
+  thrown in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php on line 33
+[23-Dec-2020 16:34:20 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[23-Dec-2020 16:34:20 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home5/gucnbimp/public_html/dillip/odishaoffice/app/model/common-functions.php on line 20
+[23-Dec-2020 16:34:20 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php:33
+Stack trace:
+#0 {main}
+  thrown in /home5/gucnbimp/public_html/dillip/odishaoffice/dashboard.php on line 33
+[07-Jan-2021 19:03:46 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home5/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 1770
+[07-Jan-2021 19:03:46 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home5/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 9143
+[07-Jan-2021 19:11:20 Asia/Kolkata] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home5/gucnbimp/public_html/dillip/odishaoffice/view-commission.php on line 273
+[07-Jan-2021 19:11:20 Asia/Kolkata] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home5/gucnbimp/public_html/dillip/odishaoffice/view-commission.php on line 274
+[07-Jan-2021 19:11:20 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home5/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 1770
+[07-Jan-2021 19:11:20 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home5/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 9143
+[07-Jan-2021 19:11:34 Asia/Kolkata] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home5/gucnbimp/public_html/dillip/odishaoffice/view-commission.php on line 273
+[07-Jan-2021 19:11:34 Asia/Kolkata] PHP Warning:  array_sum() expects parameter 1 to be array, null given in /home5/gucnbimp/public_html/dillip/odishaoffice/view-commission.php on line 274
+[07-Jan-2021 19:11:34 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home5/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 1770
+[07-Jan-2021 19:11:34 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home5/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 9143
+[07-Jan-2021 19:18:49 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home5/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 1770
+[07-Jan-2021 19:18:49 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home5/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 9143
+[07-Jan-2021 19:34:27 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home5/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 1770
+[07-Jan-2021 19:34:27 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home5/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 9143
+[07-Jan-2021 19:38:53 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home5/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 1770
+[07-Jan-2021 19:38:53 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home5/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 9143
+[10-Jan-2021 13:34:10 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home5/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 1770
+[10-Jan-2021 13:34:10 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home5/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 9143
+[22-Jan-2021 21:58:13 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/gucnbimp/public_html/dillip/odishaoffice/dailyreportadhar.php on line 9
+[22-Jan-2021 21:59:38 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/gucnbimp/public_html/dillip/odishaoffice/dailyreportadhar.php on line 9
+[22-Jan-2021 22:00:59 Asia/Kolkata] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/gucnbimp/public_html/dillip/odishaoffice/dailyreportadhar.php on line 9
+[01-Feb-2021 11:38:44 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 1770
+[01-Feb-2021 11:38:44 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 9143
+[01-Feb-2021 17:26:47 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 1770
+[01-Feb-2021 17:26:47 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 9143
+[01-Feb-2021 17:26:51 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 1770
+[01-Feb-2021 17:26:51 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 9143
+[08-Feb-2021 19:16:18 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 1770
+[08-Feb-2021 19:16:18 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 9143
+[08-Feb-2021 19:17:14 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 1770
+[08-Feb-2021 19:17:14 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /home/gucnbimp/public_html/dillip/odishaoffice/mpdf/mpdf.php on line 9143
